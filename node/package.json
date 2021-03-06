@@ -1,6 +1,6 @@
 {
-  "name": "img2base64js",
-  "version": "1.0.0",
+  "name": "image-to-base64-js",
+  "version": "1.0.1",
   "description": "Converts an image to a base64 data string exported from inside of a js file.",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthonytietjen/img2base64js.git"
+    "url": "git+https://github.com/anthonytietjen/image-to-base64-js.git"
   },
   "keywords": [],
   "author": "Anthony Tietjen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anthonytietjen/img2base64js/issues"
+    "url": "https://github.com/anthonytietjen/image-to-base64-js/issues"
   },
-  "homepage": "https://github.com/anthonytietjen/img2base64js#readme"
+  "homepage": "https://github.com/anthonytietjen/image-to-base64-js#readme"
 }
